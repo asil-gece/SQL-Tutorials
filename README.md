@@ -1,1 +1,1 @@
-These SQL files are a demonstration of my piece of trainings.
+These SQL files are a demonstration of my pieces of training.
